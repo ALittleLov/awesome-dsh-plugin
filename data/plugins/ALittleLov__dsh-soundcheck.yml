@@ -1,0 +1,6 @@
+url: https://github.com/ALittleLov/dsh-soundcheck
+name: ALittleLov/dsh-soundcheck
+category: voice
+description:
+  en: 'Local music understanding inside DSH: analyzes an audio file on your own machine and reports duration, tempo, key, loudness, energy shape, stem shares, vocal segments, transcribed lyrics and a pitch contour, through four tools (audio_analyze, audio_section, audio_bands, audio_provision). Windows only.'
+  zh: '本地音乐理解插件：在本机分析音频，给出时长、速度、调性、响度、能量走向、分轨占比、人声段、歌词转写与音高轮廓，提供 audio_analyze、audio_section、audio_bands、audio_provision 四个工具。仅支持 Windows。'
